@@ -1,0 +1,48 @@
+header {
+    background-color: black;
+    padding: 20px 0;
+
+
+}
+
+.caixacentral{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 200px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+    margin-top: 100px;
+
+}
+
+
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.produtos li {
+    display: inline-block;
+}
